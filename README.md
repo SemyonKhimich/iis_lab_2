@@ -25,3 +25,6 @@ min_value, max_value = 0.497, 0.861\
 Train accuracy: 0.8805774278215223\
 Test accuracy: 0.8884514435695539
 
+![](https://github.com/SemyonKhimich/iis_lab_2/blob/main/screenshot1.jpg?raw=true)
+
+![](https://github.com/SemyonKhimich/iis_lab_2/blob/main/screenshot1.jpg?raw=true)
